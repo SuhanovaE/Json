@@ -1,0 +1,11 @@
+D:\Синюкова и Суханова\Json\Json\bin\Debug\Json.exe.config
+D:\Синюкова и Суханова\Json\Json\bin\Debug\Json.exe
+D:\Синюкова и Суханова\Json\Json\bin\Debug\Json.pdb
+D:\Синюкова и Суханова\Json\Json\bin\Debug\Newtonsoft.Json.dll
+D:\Синюкова и Суханова\Json\Json\bin\Debug\Newtonsoft.Json.xml
+D:\Синюкова и Суханова\Json\Json\obj\Debug\Json.csproj.AssemblyReference.cache
+D:\Синюкова и Суханова\Json\Json\obj\Debug\Json.csproj.SuggestedBindingRedirects.cache
+D:\Синюкова и Суханова\Json\Json\obj\Debug\Json.csproj.CoreCompileInputs.cache
+D:\Синюкова и Суханова\Json\Json\obj\Debug\Json.csproj.CopyComplete
+D:\Синюкова и Суханова\Json\Json\obj\Debug\Json.exe
+D:\Синюкова и Суханова\Json\Json\obj\Debug\Json.pdb
